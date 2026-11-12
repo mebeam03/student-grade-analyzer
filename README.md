@@ -25,7 +25,3 @@ The program then generates a bar chart displaying the frequency of each letter g
 - Data aggregation and calculations
 - Basic input validation
 - Data visualization
-
-## Project Scope
-
-This project was originally developed as a Python programming assignment and demonstrates foundational programming concepts through a practical grade analysis scenario.
